@@ -28,6 +28,15 @@ Trabaje estrechamente al realizar las pruebas para garantizar que la base de dat
 ![1consultar paciente con id](https://github.com/MinaPisarello/HospitalBBDD/assets/106481489/0b2f9d68-9a5e-45dd-8854-df0221dad49d)
 ![3consultar turnos con nota](https://github.com/MinaPisarello/HospitalBBDD/assets/106481489/f8b2b963-ccf1-4e86-ae49-8ed40e592630)
 
+## Se trabajaron los dos Sprints en Jira 
+![WhatsApp Image 2023-05-29 at 20 49 08](https://github.com/MinaPisarello/HospitalBBDD/assets/106481489/4abf990f-57b4-4fda-a60c-189dd417e848)
+
+![WhatsApp Image 2023-05-30 at 22 41 31](https://github.com/MinaPisarello/HospitalBBDD/assets/106481489/92b1a3b0-dc4c-40ec-b40f-60b78cf8349c)
+
+## Conclusión
+
+
+
 
 
 
