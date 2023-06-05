@@ -1,14 +1,16 @@
-# Hospital BBDD
-Se requiere un sistema de gestión hospitalaria que facilite el registro de pacientes, incluyendo su nombre, edad y número de asociado de obra social. También se requiere llevar un registro de los médicos, incluyendo su nombre completo y especialidad. Además, el sistema debe permitir la asignación de médicos a los distintos turnos, especificando el horario de servicio correspondiente a cada turno.
+                                                                     # Hospital BBDD
+
+## Resumen del Proyecto
+
+##### Durante mi tiempo como QA Trainee (Mindhub Bootcamp) en el trabajo con un cliente "Hospital Regional", tuve la oportunidad de participar activamente en la organización; creación y testeo de una base de datos.
+
+## Requerimiento
+Se solicita un sistema de gestión hospitalaria que facilite el registro de pacientes, incluyendo su nombre, edad y número de asociado de obra social. También se requiere llevar un registro de los médicos, incluyendo su nombre completo y especialidad. Además, el sistema debe permitir la asignación de médicos a los distintos turnos, especificando el horario de servicio correspondiente a cada turno.
 
 ## Modalidad de trabajo
 - Metodología Agile Marco Scrum
 - Dos Sprints
 - jira - Zephyr
-
-## Resumen del Proyecto
-
-##### Durante mi tiempo como QA Trainee (Mindhub Bootcamp) en el trabajo con un cliente ficticio "Hospital Regional", tuve la oportunidad de participar activamente en la organización; creación y testeo de una base de datos.
 
 ### En la etapa de organización
 Fui encargada de dividir las tareas; potenciando las habilidades de los integrantes de mi equipo. Se realizaron Dailes y se evaluó el avance de cada objetivo a cumplir; acorde al scope y nuestra deadline.
@@ -54,15 +56,14 @@ Fui responsable de diseñar el ERD; el esquema de la base de datos, definir las 
 
 #### Retrospectiva
 
+Con el equipo se analizó qué funcionó bien durante la iteración y qué aspectos se pueden mejor. Se identificaron las fortalezas y debilidades del proceso de desarrollo; tal como la comunicación, la colaboración, la gestión del tiempo, la calidad del trabajo, entre otros. Buscamos fomentar un ambiente de aprendizaje continuo y adaptación. Esta evaluación nos permite al equipo aprovechar los conocimientos adquiridos en futuros proyectos.
+
 ![cumulative flow](https://github.com/MinaPisarello/HospitalBBDD/assets/106481489/da356647-565f-42f7-989b-a38cf2544427)
-
-
-
 
 
 ## Conclusión
 Logramos implementar con éxito la base de datos en el entorno de producción. Mejorando significativamente la eficiencia en el manejo de los datos y optimizando los tiempos de trabajo del personal del hospital. Además, recibimos comentarios positivos del equipo de usuarios internos sobre la facilidad de uso y la fiabilidad de la base de datos.
-
+Con este proyecto logramos impulsar la mejora continua y el aprendizaje, lo que contribuyó al éxito y al crecimiento del equipo.
 
 
 
