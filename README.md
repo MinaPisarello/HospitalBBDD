@@ -15,6 +15,7 @@ Fui encargada de dividir las tareas; potenciando las habilidades de los integran
 
 ### Como parte del equipo de desarrollo
 Fui responsable de diseñar el ERD; el esquema de la base de datos, definir las tablas y sus relaciones, así como crear los procedimientos almacenados y las consultas necesarias para optimizar la recuperación y manipulación de los datos. 
+
 ![Untitled (2)](https://github.com/MinaPisarello/HospitalBBDD/assets/106481489/06975c69-a3ad-44c0-9ae9-a35557aa28aa)
 
 
