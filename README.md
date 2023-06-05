@@ -1,4 +1,4 @@
-                                                                     # Hospital BBDD
+ # Hospital BBDD
 
 ## Resumen del Proyecto
 
