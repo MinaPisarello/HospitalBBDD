@@ -56,7 +56,7 @@ Fui responsable de diseñar el ERD; el esquema de la base de datos, definir las 
 
 #### Retrospectiva
 
-Con el equipo se analizó que funcionó bien durante la iteración y qué aspectos se pueden mejorar. Se identificaron las fortalezas y debilidades del proceso de desarrollo; tal como la comunicación, la colaboración, la gestión del tiempo, la calidad del trabajo, entre otros. Buscamos fomentar un ambiente de aprendizaje continuo. Esta evaluación nos permite al equipo aprovechar los conocimientos adquiridos en futuros proyectos.
+Con el equipo se analizó qué funcionó bien durante la iteración y qué aspectos se pueden mejorar. Se identificaron las fortalezas y debilidades del proceso de desarrollo; tal como la comunicación, la colaboración, la gestión del tiempo, la calidad del trabajo, entre otros. Buscamos fomentar un ambiente de aprendizaje continuo. Esta evaluación nos permite al equipo aprovechar los conocimientos adquiridos en futuros proyectos.
 
 ![cumulative flow](https://github.com/MinaPisarello/HospitalBBDD/assets/106481489/da356647-565f-42f7-989b-a38cf2544427)
 
