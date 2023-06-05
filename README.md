@@ -54,14 +54,14 @@ Fui responsable de diseñar el ERD; el esquema de la base de datos, definir las 
 
 ![WhatsApp Image 2023-05-30 at 22 41 31](https://github.com/MinaPisarello/HospitalBBDD/assets/106481489/92b1a3b0-dc4c-40ec-b40f-60b78cf8349c)
 
-#### Retrospectiva
+### Retrospectiva
 
 Con el equipo se analizó qué funcionó bien durante la iteración y qué aspectos se pueden mejorar. Se identificaron las fortalezas y debilidades del proceso de desarrollo; tal como la comunicación, la colaboración, la gestión del tiempo, la calidad del trabajo, entre otros. Buscamos fomentar un ambiente de aprendizaje continuo. Esta evaluación nos permite al equipo aprovechar los conocimientos adquiridos en futuros proyectos.
 
 ![cumulative flow](https://github.com/MinaPisarello/HospitalBBDD/assets/106481489/da356647-565f-42f7-989b-a38cf2544427)
 
 
-## Conclusión
+### Conclusión
 Logramos implementar con éxito la base de datos en el entorno de producción. Mejorando significativamente la eficiencia en el manejo de los datos y optimizando los tiempos de trabajo del personal del hospital. Además, recibimos comentarios positivos del equipo de usuarios internos sobre la facilidad de uso y la fiabilidad de la base de datos.
 Con este proyecto logramos impulsar la mejora continua y el aprendizaje, lo que contribuyó al éxito y al crecimiento del equipo.
 
