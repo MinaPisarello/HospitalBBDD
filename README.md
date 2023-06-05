@@ -2,7 +2,7 @@
 
 ## Resumen del Proyecto
 
-##### Durante mi tiempo como QA Trainee (Mindhub Bootcamp) en el trabajo con un cliente "Hospital Regional", tuve la oportunidad de participar activamente en la organización; creación y testeo de una base de datos.
+##### Durante mi tiempo como QA Trainee (Mindhub Bootcamp) trabajamos con el cliente "Hospital Regional". Tuve la oportunidad de participar activamente en la organización; creación y testeo de una base de datos.
 
 ## Requerimiento
 Se solicita un sistema de gestión hospitalaria que facilite el registro de pacientes, incluyendo su nombre, edad y número de asociado de obra social. También se requiere llevar un registro de los médicos, incluyendo su nombre completo y especialidad. Además, el sistema debe permitir la asignación de médicos a los distintos turnos, especificando el horario de servicio correspondiente a cada turno.
